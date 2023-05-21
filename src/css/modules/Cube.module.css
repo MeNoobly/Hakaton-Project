@@ -1,0 +1,32 @@
+.Cube {
+    background: black;
+    color: white;
+    width: 20.31vw;
+    height: 14.58vw;
+}
+
+.Group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4.43vw; 
+}
+
+.Group p {
+    margin-top: 1.35vw;
+    margin-left: 1.20vw;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 1.56vw;
+}
+
+.ButtonGroup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 7.50vw;
+}
+
+.Icon {
+    margin-left: 1.35vw;
+    margin-right: 1.20vw;
+}
